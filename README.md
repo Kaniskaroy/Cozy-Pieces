@@ -1,4 +1,4 @@
-# Cozy Pieces ❄️
+# Cozy-Pieces ❄️
 
 A real two-player cooperative jigsaw game built around the supplied photo. It uses a Socket.IO room as the single source of truth: swaps, progress, shared hints, chat, restarts, and completion all go through the Node server before both clients are updated.
 
